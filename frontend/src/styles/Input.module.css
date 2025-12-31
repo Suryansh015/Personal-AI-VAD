@@ -1,0 +1,45 @@
+.inputBox {
+  display: flex;
+  padding: 12px;
+  gap: 8px;
+  background-color: #f0f0f5;
+  border-top: 1px solid #ccc;
+}
+
+.inputBox input {
+  flex: 1;
+  padding: 10px 14px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  outline: none;
+}
+
+.inputBox input:focus {
+  border-color: #4f46e5;
+  box-shadow: 0 0 4px rgba(79, 70, 229, 0.3);
+}
+
+.inputBox button {
+  padding: 0 14px;
+  border-radius: 20px;
+  border: none;
+  background-color: #4f46e5;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.inputBox button:hover {
+  background-color: #3730a3;
+}
+
+/* Push-to-talk button styling */
+.inputBox button:last-child {
+  background-color: #10b981;
+}
+
+.inputBox button:last-child:hover {
+  background-color: #059669;
+}
