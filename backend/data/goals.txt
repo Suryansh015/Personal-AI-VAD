@@ -1,0 +1,25 @@
+My primary goal right now is to build a strong full-stack AI project
+that demonstrates real-world engineering skills, not just toy demos.
+
+I want to deeply understand Retrieval Augmented Generation (RAG)
+and how it improves reliability and grounding of LLMs.
+
+I am preparing for full-stack and AI-focused interviews,
+especially roles involving system design and applied ML.
+
+I want to become comfortable designing end-to-end systems,
+from frontend UX to backend orchestration.
+
+Short term, I aim to complete this personal AI assistant project
+with voice input, streaming output, and tool usage.
+
+I want my projects to look clean, intentional, and well-documented.
+
+I aim to improve my confidence explaining technical decisions clearly.
+
+Long term, I want to work on impactful AI products,
+not just model training but full systems.
+
+I also want to improve my consistency and discipline in daily work.
+
+Learning by building is my preferred approach.

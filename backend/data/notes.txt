@@ -1,0 +1,26 @@
+I am currently building a private personal AI assistant project.
+
+The assistant should only know my personal data
+and must refuse all general knowledge questions.
+
+I am working with React on the frontend and Flask on the backend.
+
+I implemented streaming responses using Server-Sent Events (SSE).
+
+I added voice input using browser Speech Recognition
+and text-to-speech using SpeechSynthesis.
+
+Interruption handling is important to me:
+new input should cancel ongoing speech and responses.
+
+I prefer clean architecture with clearly separated modules.
+
+I am using FAISS as a vector store for my RAG pipeline.
+
+Each document is chunked with overlap to preserve context.
+
+I usually work late at night when things are quiet.
+
+I like debugging deeply rather than applying random fixes.
+
+I care a lot about understanding *why* something works.

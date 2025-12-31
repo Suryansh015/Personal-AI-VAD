@@ -1,0 +1,24 @@
+Name: Suryansh Himalayan
+
+I am a Software Engineering student with a strong interest
+in full-stack development and applied AI systems.
+
+My core skills include Python, Flask, React, and JavaScript.
+
+I have experience building REST APIs and real-time systems.
+
+I am learning how to integrate LLMs into production-style pipelines.
+
+I have worked with vector databases like FAISS for semantic search.
+
+I understand basic system design concepts and trade-offs.
+
+I enjoy building projects that combine frontend and backend logic.
+
+I focus on writing clean, maintainable code.
+
+I am comfortable debugging complex issues across the stack.
+
+I am currently exploring AI assistants, RAG, and tool calling.
+
+I aim to grow into a strong applied AI engineer.
