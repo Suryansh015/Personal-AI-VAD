@@ -6,6 +6,9 @@ A private, personal AI assistant that knows only the owner, interacts naturally 
 
 ## System Architecture
 
+<p align="center">
+  <img src="images/architecture-diagram.jpg" alt="architecture-diagram" title="architecture-diagram" width="750">
+</p>
 
 - **Strict Boundary Rule:** Only answers questions related to the owner; politely refuses everything else.  
 - **Interruptible:** Ongoing speech or streaming responses can be interrupted by new user input.  
